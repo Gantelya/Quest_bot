@@ -53,7 +53,8 @@ logger = logging.getLogger(__name__)
     MY_BOOKINGS,
     FAQ_MENU,
 ) = range(9)
-
+from dotenv import load_dotenv
+load_dotenv()
 
 # ════════════════════════════════════════════════════════════════
 #   КЛАВИАТУРЫ
