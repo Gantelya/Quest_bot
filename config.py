@@ -5,7 +5,7 @@ import os
 # ═══════════════════════════════════════════════════════════════
 
 # Токен бота от @BotFather
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8732438723:AAH7FJXkCUrE1idAm4r7uD9crW3ak0YASj4")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬТЕ_ТОКЕН_ВАШЕГО_БОТА")
 
 # Ваш Telegram ID (узнать можно у @userinfobot)
 ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "5492881784"))
