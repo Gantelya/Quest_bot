@@ -3,6 +3,9 @@
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-20.x-green?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)
 
+> Telegram bot that fully replaces a quest room administrator. 
+> Built with Python, python-telegram-bot and SQLite.
+
 Бот берёт на себя 100% рутины администратора: принимает брони 24/7, 
 отправляет напоминания клиентам, ведёт расписание и уведомляет владельца — 
 без единого звонка и без найма сотрудника.
