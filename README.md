@@ -1,4 +1,7 @@
 # 🎮 Quest Rooms Bot — Telegram-бот администратора квест-комнат
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-20.x-green?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)
 
 Полностью заменяет живого администратора для работы с клиентами.
 
