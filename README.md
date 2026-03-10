@@ -138,3 +138,12 @@ BOT_TOKEN="токен" ADMIN_CHAT_ID="id" python bot.py
 - Python 3.9+
 - pip
 - Интернет-соединение
+
+---
+## 👨‍💻 Автор
+Denis Gantelya — AI Automation Developer
+
+Специализируюсь на создании Telegram-ботов с интеграцией LLM.
+📬 [Telegram](https://t.me/gantelya200) | [GitHub](https://github.com/Gantelya)
+
+-----
